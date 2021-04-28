@@ -1,1 +1,3 @@
 # cs-SBU-rec-sys
+this is a thesis on sequential recomender systems.we are developing a new methods in this way.
+stay tuned...
